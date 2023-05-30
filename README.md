@@ -1,7 +1,7 @@
 # desafio-challanger-one-alura-decodificador
 Construção de um decodificador de texto com Javascript
 
-#Objetivo
+# Objetivo
 Construir uma aplicação que criptografa textos, assim o usuário poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.
 
 As "chaves" de criptografia que utilizaremos são:
